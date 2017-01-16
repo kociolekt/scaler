@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/kociolekt/scaler#readme",
   "dependencies": {
-    "simple-eventer": "^2.0.0"
+    "simple-eventer": "^2.0.0",
+    "viewport": "github:kociolekt/viewport"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",

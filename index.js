@@ -1,5 +1,5 @@
 import SimpleEventer from 'simple-eventer';
-import viewport from './viewport';
+import viewport from 'viewport';
 
 let defaults = {
   segments: [
