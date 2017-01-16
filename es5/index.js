@@ -10,7 +10,7 @@ var _simpleEventer = require('simple-eventer');
 
 var _simpleEventer2 = _interopRequireDefault(_simpleEventer);
 
-var _viewport = require('./viewport');
+var _viewport = require('viewport');
 
 var _viewport2 = _interopRequireDefault(_viewport);
 
