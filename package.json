@@ -1,0 +1,32 @@
+{
+  "name": "to-lines",
+  "version": "1.0.0",
+  "description": "Scales font-size on html element using \"segments\" provided in options",
+  "main": "es5/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./node_modules/babel-cli/bin/babel index.js -d es5/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kociolekt/scaler.git"
+  },
+  "keywords": [
+    "scale",
+    "font-size",
+    "html"
+  ],
+  "author": "kociolekt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kociolekt/scaler/issues"
+  },
+  "homepage": "https://github.com/kociolekt/scaler#readme",
+  "dependencies": {
+    "simple-eventer": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-env": "^1.1.8"
+  }
+}
