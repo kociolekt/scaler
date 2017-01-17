@@ -37,7 +37,7 @@ var defaults = {
   }, {
     name: 'desktop',
     min: 751,
-    max: Number.MAX_SAFE_INTEGER,
+    max: Number.MAX_VALUE,
     base: {
       width: 1920,
       fontSize: 10
